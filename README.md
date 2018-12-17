@@ -16,3 +16,12 @@ Libraries used:
 - routes (internal routes)
 - views (handlebars files)
 - models (MongoDb logic)
+
+## Run Project
+- npm install
+- node app.js
+
+### TODO
+- Implement bundler like webpack
+- Hot reloading (nodemon)
+- Tests
